@@ -1,5 +1,4 @@
 # hello-world
-First repository haha
 
 My name is Lucas, but I go by feverbrew or fever online. 
 I am an aspiring young coder looking to work on some cool projects.
